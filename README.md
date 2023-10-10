@@ -19,4 +19,6 @@ The goal of VIWG is to promote vaccine community wide research sharing, discussi
 - University of Michigan: Oliver He, Jie Zheng, Anthony Huffman
 - University of North Dakoda: Junguk Hur, Hasin Rehana  
 - UTHealth Houston: Cui Tao, Jianfu Li
+- University of Maryland Medical School: Herve Tettelin
+
 
