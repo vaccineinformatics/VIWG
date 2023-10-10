@@ -19,7 +19,11 @@ The goal of VIWG is to promote vaccine community wide research sharing, discussi
   - Vaccine Ontology (VO) development
   - Vaccine Investigation Ontology (VIDO) development
   - Vaccination Informed Consent Ontology (VICO) development
-  - The Ontology of Vaccine Adverse Events (OVAE) 
+  - The Ontology of Vaccine Adverse Events (OVAE)
+    
+- Vaccine Design Working Group
+  - Build up the gold standard datasets for vaccine design
+  - Promote shared vaccine design studies
 
 
 ## Organizations and Members
