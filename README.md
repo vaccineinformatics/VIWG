@@ -1,8 +1,9 @@
 # VaxInfo Consortium
 Vaccine Informatics Consortium
 
-The VaxInfo Consortium idea came from a group meeting in October 5, 2022.
+Introduction: Oct 5, 2022. The consortium will continue to organize the VDOS annual meetings. ... 
 
+Our Consortium organizes the VDOS meeting series:  https://vdos-workshop.github.io/ 
 
 ## Goal: 
 The goal of VIWG is to promote vaccine community wide research sharing, discussion, standardization, and collaboration.
