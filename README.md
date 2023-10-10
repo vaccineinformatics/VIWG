@@ -3,7 +3,7 @@ Vaccine Informatics Consortium
 
 Introduction: Oct 5, 2022. The consortium will continue to organize the VDOS annual meetings. ... - Promote the vaccine data FAIRness.
 
-Our Consortium organizes the VDOS meeting series:  https://vdos-workshop.github.io/ 
+Our Consortium organizes the VDOS meeting series:  https://vdos-workshop.github.io/ . https://icbo-conference.github.io/icbo2022/ . 
 
 ## Goal: 
 The goal of VIWG is to promote vaccine community wide research sharing, discussion, standardization, and collaboration.
