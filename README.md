@@ -7,6 +7,7 @@ The VIWG idea came from a group meeting in October 5, 2022.
 The goal of VIWG is to promote vaccine community wide research sharing, discussion, standardization, and collaboration.
 
 ## Tasks:
+- Organize regular meetings. 
 - Minimal Information about Vaccine Information Stanard (MIVIS).
 - Development of the community-based Vaccine Ontology (VO).
 - Vaccine naming convention.
