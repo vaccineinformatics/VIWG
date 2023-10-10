@@ -15,5 +15,5 @@ The goal of VIWG is to promote vaccine community wide research sharing, discussi
 ## Organizations and Members
 - University of Michigan: Oliver He, Jie Zheng, Anthony Huffman
 - University of North Dakoda: Junguk Hur, Hasin Rehana  
-- UTHealth Houston: Cui Tao
+- UTHealth Houston: Cui Tao, Jianfu Li
 
