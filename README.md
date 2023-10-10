@@ -10,4 +10,7 @@ The goal of VIWG is to promote vaccine community wide research sharing, discussi
 - Minimal information stanard for vaccine information collection
 - Development of the community-based Vaccine Ontology (VO).
 - Vaccine naming convention.
+- Promote the vaccine data FAIRness.
+
+
 
