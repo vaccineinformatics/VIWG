@@ -1,11 +1,11 @@
-# VIWG
-VIWG: Vaccine Informatics Working Group
+# VaxInfo Consortium
+Vaccine Informatics Consortium
 
 The VIWG idea came from a group meeting in October 5, 2022.
 
 Optional names:
-- Vaccine Informatics Consortium
-- Vaccine Informatics Foundry
+- Vaccine Informatics Consortium  (VaxIC)
+- 
 
 
 ## Goal: 
