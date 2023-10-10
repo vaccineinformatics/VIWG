@@ -1,7 +1,7 @@
 # VaxInfo Consortium
 Vaccine Informatics Consortium
 
-The VIWG idea came from a group meeting in October 5, 2022.
+The VaxInfo Consortium idea came from a group meeting in October 5, 2022.
 
 Optional names:
 - Vaccine Informatics Consortium  (VaxIC)
