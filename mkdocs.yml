@@ -1,15 +1,11 @@
-site_name: "VDOS-2023: International Workshop on Vaccine and Drug Ontology Studies"
-repo_url: https://github.com/vdos-workshop/vdos2023/
-edit_uri: '?query=root/vdos2023/docs/'
+site_name: "Vaccine Informatics (VaxInfo) Consortium"
+repo_url: https://vaccineinformatics.github.io/VaxInfo-Consortium/
+edit_uri: '?query=root/VaxInfo-Consortium/docs/'
 theme:
   name: readthedocs
 nav:
   - Home: index.md
-  - VDOS Introduction: vdos_intro.md
-  - Call for Submissions: call-for-submissions.md
-  - Program: program.md
-  - Keynote Speakers: keynote-speakers.md
-  - ICBO Registration: icbo-registration.md
+  - VaxInfo Introduction: vaxinfo_intro.md
+  - Working Groups: working-groups.md
+  - Participating organizations: organizations.md
   - Contact Information: contact-information.md
-  - Co-organizers: co-organizers.md
-  
