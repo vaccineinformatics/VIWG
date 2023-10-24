@@ -1,7 +1,5 @@
 # VaxInfo Consortium: Bridging Vaccine Research through Collaborative Informatics
 
-Hello Oliver 
-
 Welcome to the official page of the VaxInfo Consortium. As the intersection of medical research and technology becomes increasingly significant, our consortium stands committed to bringing together global vaccine researchers to promote innovation, collaboration, and excellence.
 
 ## Overview
