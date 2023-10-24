@@ -35,4 +35,4 @@ Interested in joining our mission? [Find out how you can contribute or join our 
 For any inquiries or collaborations, [reach out to our team](./contact).
 
 ---
-© 2023 VaxInfo Consortium | [Privacy Policy](./privacy) | [Terms of Service](./terms)
+© 2023 VaxInfo Consortium | [Privacy Policy](./index) | [Terms of Service](./index)
