@@ -1,20 +1,38 @@
-# VDOS-2023: International Workshop on Vaccine and Drug Ontology Studies
+# VaxInfo Consortium: Bridging Vaccine Research through Collaborative Informatics
 
-## Location
-Virtual: Zoom (the link will be provided to the registered participants before the workshop)<BR>
-In-person: There will be __NO__ in-person onsite meeting this year. We are sorry for the inconvenience. 
+Welcome to the official page of the VaxInfo Consortium. As the intersection of medical research and technology becomes increasingly significant, our consortium stands committed to bringing together global vaccine researchers to promote innovation, collaboration, and excellence.
 
-## Conference Dates
-- Paper submission: June 30, 2023<BR>
-- Notification of acceptance: July 31, 2023<BR>
-- Last abstract submission: August 4, 2023<BR>
-- Acceptance of abstract: August 11, 2023<BR>
-- Workshop: __August 29th, 2023 (8:30 AM – noon Brazilian time)<BR>
-                            (7:30 AM - 11 AM Eastern Daylight Time)<BR>__
-- Submission to journal: [JBMS VDOS Collection by __October 31, 2023__](https://jbiomedsem.biomedcentral.com/articles/collections)<BR>
+## Overview
 
-## Recording and Publishing Disclaimer
-By participating in this workshop, attendees acknowledge and agree that the workshop will be recorded and that their participation, including any comments, questions, and visual/audio presence, may be captured during this recording. The recorded content may be edited, repurposed, or otherwise modified by the workshop organizers, who reserve the right to publish the content on platforms, including but not limited to YouTube. By participating, attendees grant the workshop organizers the irrevocable right to use the recorded content for promotional, educational, and other appropriate purposes without further notice or compensation. By continuing with participation, attendees confirm their understanding and agreement to these terms.
+In today’s fast-paced world of medical research and technology, the VaxInfo Consortium stands as a beacon for vaccine researchers worldwide. Harnessing the capabilities of biomedical ontologies, knowledge representation, and artificial intelligence, we aim to streamline and elevate the quality of vaccine research and development. Our consortium seeks to unravel the intricate mechanisms behind vaccines, pioneering a new age in vaccine reverse engineering.
 
-## Conference Videos
-Playlists of the current and previous VDOS conference recordings are available on [YouTube](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw/playlists).  
+## Working Groups
+
+### [Minimal Information Standard Working Group](./miswg)
+- Develop the Minimal Information about Vaccine Information Standard (MIVIS).
+- Establish vaccine naming conventions.
+
+### [Ontology Working Group](./ontologywg)
+- Develop various vaccine-related ontologies such as VO, VIDO, VICO, and OVAE.
+
+### [Vaccine Design Working Group](./vdwg)
+- Build gold standard datasets for vaccine design.
+- Promote collaborative vaccine design studies.
+
+_For detailed information, visit our [Working Groups page](./working-groups)._
+
+## Events
+
+- **Annual VDOS Meeting**: A platform for sharing insights in vaccine informatics. [Learn more](./vdos-meeting).
+- **International Conference on Biomedical Ontology (ICBO)**: In partnership with leading organizations. [More info](https://icbo-conference.github.io/icbo2023/).
+
+## Get Involved
+
+Interested in joining our mission? [Find out how you can contribute or join our working groups.](./get-involved)
+
+## Contact Us
+
+For any inquiries or collaborations, [reach out to our team](./contact).
+
+---
+© 2023 VaxInfo Consortium | [Privacy Policy](./privacy) | [Terms of Service](./terms)
