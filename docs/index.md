@@ -23,8 +23,8 @@ _For detailed information, visit our [Working Groups page](./working-groups)._
 
 ## Events
 
-- **Annual VDOS Meeting**: A platform for sharing insights in vaccine informatics. [Learn more](./vdos-meeting).
-- **International Conference on Biomedical Ontology (ICBO)**: In partnership with leading organizations. [More info](https://icbo-conference.github.io/icbo2023/).
+- **Annual VDOS Meeting**: A platform for sharing insights in vaccine informatics. [Learn more about VDOS](https://vdos-workshop.github.io/vdos2023/).
+- **International Conference on Biomedical Ontology (ICBO)**: In partnership with leading organizations. [More info on ICBO](https://icbo-conference.github.io/icbo2023/).
 
 ## Get Involved
 
