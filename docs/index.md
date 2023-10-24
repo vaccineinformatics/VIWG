@@ -28,7 +28,7 @@ _For detailed information, visit our [Working Groups page](./working-groups)._
 
 ## Get Involved
 
-Interested in joining our mission? [Find out how you can contribute or join our working groups.](./get-involved)
+Interested in joining our mission? [Find out how you can contribute or join our working groups.] Come and check out [Slack workspace](https://join.slack.com/t/vaccineinformatics/shared_invite/zt-25o3oscut-~CIFdAyQyD9aFf6PUH0MMg)
 
 ## Contact Us
 
